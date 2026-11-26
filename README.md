@@ -1,6 +1,11 @@
 ## Oiê 👋
 
-!--
+i like 🫶 plants 🪴 and animals 🦇
+
+😄 Pronouns: she/her
+
+
+<!--
 **LuisaSuzuki/LuisaSuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
---
+-->
